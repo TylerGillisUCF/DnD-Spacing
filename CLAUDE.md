@@ -82,11 +82,104 @@ Each player path collects a different mystical key:
 
 ## Core Campaign Mechanics
 
+### Basic Rules
 - **No Death System**: Low rolls result in funny/embarrassing outcomes, never death
 - **Guaranteed Progression**: Story always moves forward
-- **Skill Point System**: Characters earn skill points instead of traditional XP
-- **Economy**: Balanced gold/item system rewards smart play
+- **Skill Point System**: Characters earn 1 skill point per encounter (start with 12, end with ~29-30)
 - **Time**: ~4-6 hours total playtime
+
+### Skill Points & Modifiers
+Players distribute points across six stats (STR, DEX, CON, INT, WIS, CHA). Points determine modifiers added to rolls:
+- 1-2 points = -2 modifier
+- 3-4 points = -1 modifier
+- 5-6 points = +0 modifier
+- 7-8 points = +1 modifier
+- 9-10 points = +2 modifier
+- 11-12 points = +3 modifier
+- 13-14 points = +4 modifier
+- 15-16 points = +5 modifier
+- 17+ points = +6 modifier
+
+### Dice System
+Different dice for different difficulty levels:
+- **d4**: Simple decisions, minor tasks
+- **d6**: Standard checks, moderate difficulty
+- **d8**: Skilled checks, moderate-to-hard
+- **d10**: Challenging checks, important moments
+- **d12**: Major checks, high-stakes moments
+- **d20**: Epic checks, boss encounters, critical moments
+
+### Critical Rolls
+- **Natural 20**: Automatic success + bonus effects + earn 1 coin
+- **Natural 1**: Automatic failure + funny consequence + lose 1 coin (except in combat)
+
+### Economy System (240 Total Coins)
+**Income:**
+- Starting coins: 12 per player
+- Per encounter: 5 coins (guaranteed)
+- Natural 20 bonus: +1 coin each
+- Various challenges: +2-10 coins
+
+**Mandatory Expenses:**
+- 3 paid meals @ 5 coins each = 15 coins minimum per player
+
+**Optional Purchases:**
+- Vendor items: 3-15 coins (magic items, bonuses, rerolls)
+- Gambling/information: 2-10 coins
+- High-risk opportunities: Variable
+
+**Penalties:**
+- Natural 1 (non-combat): -1 coin
+- Failed risky attempts: -3 coins
+
+### Roll Modifiers & Special Mechanics
+**Temporary Bonuses/Penalties:**
+- +1 to +3 bonuses to specific rolls or all rolls (duration varies)
+- -1 to -3 penalties from curses, failed attempts
+- Duration: "next roll," "next encounter," "for 2 encounters"
+
+**Advantage/Disadvantage:**
+- Roll twice, take higher (advantage) or lower (disadvantage)
+- Commonly awarded for success on earlier challenges
+
+**Special Items (Examples):**
+- Amulet of Clarity (crucial for final boss)
+- Phoenix Tear (15 coins - legendary item, game-changer)
+- Ring of Truth-Seeing
+- Lucky Coin (from gambling)
+- Blessing Tokens (various effects)
+- Divine Protection (reroll one failed check)
+
+**Limited Mechanics:**
+- Rerolls: Mentioned but rarely implemented
+- Auto-success items: Only Natural 20s provide this
+- Saving throws: Not implemented
+
+### Encounter Structure
+Most cameo encounters follow this pattern:
+1. **Challenge 1**: Tests specific stat (often with roleplay/choice element)
+   - Success grants advantage or bonus to Challenge 2
+   - Natural 20/1 effects apply
+2. **Challenge 2**: Often builds on Challenge 1 results
+   - May use bonuses/advantage from Challenge 1
+   - Success grants bonus to Challenge 3
+3. **Challenge 3**: Usually combat or climactic test
+   - Accumulates bonuses from previous challenges
+   - Determines encounter outcome quality
+
+**Difficulty Classes (DC):**
+- Easy: DC 6-8
+- Medium: DC 9-11
+- Hard: DC 12-14
+- Very Hard: DC 15-17
+- Nearly Impossible: DC 18+
+
+### Combat Mechanics
+- Opposed rolls (Hero vs Enemy)
+- Best-of-X format (e.g., best of 3, best of 5)
+- First to win X exchanges wins the combat
+- **No coin loss on Natural 1 in combat** (unique exception)
+- Losing combat results in funny/narrative setbacks, never death
 
 ## Future Considerations
 
